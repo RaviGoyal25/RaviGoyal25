@@ -19,12 +19,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=A9FEF7&text_color=ffffff&title_color=A9FEF7" alt="GitHub Stats" />
-</div>
-
-<br/>
-
 ## 🎯 Expertise
 
 ```typescript
