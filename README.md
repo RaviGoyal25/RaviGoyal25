@@ -73,12 +73,6 @@ const Ravi = {
 
 </div>
 
-## 📈 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF9554&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=ffffff" alt="GitHub Streak" />
-</div>
-
 ## 🎯 Current Focus
 
 - 🚀 Optimizing Web Performance
